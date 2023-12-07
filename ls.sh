@@ -2,4 +2,4 @@
 #modified ls command
 
 
-ls -a
+ls -a --color
